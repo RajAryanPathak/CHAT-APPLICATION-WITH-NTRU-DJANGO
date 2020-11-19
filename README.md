@@ -34,7 +34,7 @@ c.	Q=32
           
 
 5.	Then public key is generated h
-                                       <img src="/IMAGES/5.PNG" alt=""/>          
+                                    <br>   <img src="/IMAGES/5.PNG" alt=""/>          
 6.	The polynomials f, fp and g are private key  polynomial h and the numbers, p, q and N are available to the general public <img src="/IMAGES/6.PNG" alt=""/>
 
 MEESAGE GENRATION (M) (NOVELITY)
