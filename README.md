@@ -61,12 +61,13 @@ DECRYPTION
 
 
 The first step of the decryption is calculating a polynomial a, such that
-                                <img src="/IMAGES/12a.PNG" alt=""/>
- polynomial b is calculated
+<br>
+                                <img src="/IMAGES/12a.PNG" alt=""/><br>
+ polynomial b is calculated <br>
  <img src="/IMAGES/12b.PNG" alt=""/>
                                   
-secret polynomial fp is used to obtain the message
-                 <img src="/IMAGES/12c.PNG" alt=""/>
+secret polynomial fp is used to obtain the message<br>
+                 <img src="/IMAGES/12c.PNG" alt=""/><br>
                                  
 Message is converted back into string
 
