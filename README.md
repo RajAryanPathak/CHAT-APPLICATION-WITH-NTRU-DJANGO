@@ -3,17 +3,17 @@ This project implements process of a privacy preserving secured chatting web app
 The web application will be accessible only to the authorized users and not to anyone.
 The Secured Chat will provide the user with secured flawless and non-stop communication between peers. 
 We have using <b>web sockets in python and Django channels with NTRU cryptosystem.</b>
-
+***
 
 <img src="/IMAGES/screencapture-127-0-0-1-8000-chat-2020-11-19-14_40_43.png" alt=""/>
 <img src="/IMAGES/screencapture-127-0-0-1-8000-chat-2020-11-19-14_42_56.png" alt=""/>
 <img src="/IMAGES/screencapture-127-0-0-1-8000-chat-ROOM1-RAJ-2020-11-19-14_42_26.png" alt=""/>
 <img src="/IMAGES/screencapture-127-0-0-1-8000-chat-ROOM1-RAJ-2020-11-19-14_46_03.png" alt=""/>
-
+***
 
 
 <b>EXPLANATION OF METHOD USED</b>
-
+---
 
 EXPLANATION OF METHOD USED
 INITIALIZATION
