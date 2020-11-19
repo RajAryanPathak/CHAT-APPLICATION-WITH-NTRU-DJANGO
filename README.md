@@ -9,10 +9,9 @@ We have using <b>web sockets in python and Django channels with NTRU cryptosyste
 <img src="/IMAGES/screencapture-127-0-0-1-8000-chat-2020-11-19-14_42_56.png" alt=""/>
 <img src="/IMAGES/screencapture-127-0-0-1-8000-chat-ROOM1-RAJ-2020-11-19-14_42_26.png" alt=""/>
 <img src="/IMAGES/screencapture-127-0-0-1-8000-chat-ROOM1-RAJ-2020-11-19-14_46_03.png" alt=""/>
+
 ***
-
-
-<b>EXPLANATION OF METHOD USED</b>
+EXPLANATION OF METHOD USED
 ---
 
 EXPLANATION OF METHOD USED
